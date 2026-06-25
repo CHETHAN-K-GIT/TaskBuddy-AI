@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TaskBuddy AI
 
-# Run and deploy your AI Studio app
+A simple AI-powered task management application.
 
-This contains everything you need to run your app locally.
+Features:
+- Add tasks
+- Complete tasks
+- AI task prioritization
+- Dashboard
 
-View your app in AI Studio: https://ai.studio/apps/ce2fc21b-ad91-4553-aebb-d6a30335cb43
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Technologies:
+- React
+- TypeScript
+- Gemini API
+- Local Storage
