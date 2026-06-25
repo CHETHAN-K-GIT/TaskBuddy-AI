@@ -1,0 +1,6 @@
+{
+  "name": "TaskBuddy AI",
+  "description": "A smart, minimalist task manager that helps you view, manage, and prioritize tasks with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
